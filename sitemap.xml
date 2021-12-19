@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dreamersboy.github.io/post/blog/</loc>
+    <loc>https://dreamersboy.giyhub.io/post/blog/</loc>
     <lastmod>2021-12-18T22:04:05+08:00</lastmod>
   </url><url>
-    <loc>https://dreamersboy.github.io/</loc>
+    <loc>https://dreamersboy.giyhub.io/</loc>
     <lastmod>2021-12-18T22:04:05+08:00</lastmod>
   </url><url>
-    <loc>https://dreamersboy.github.io/post/</loc>
+    <loc>https://dreamersboy.giyhub.io/post/</loc>
     <lastmod>2021-12-18T22:04:05+08:00</lastmod>
   </url><url>
-    <loc>https://dreamersboy.github.io/categories/</loc>
+    <loc>https://dreamersboy.giyhub.io/post/newblog/</loc>
+    <lastmod>2021-12-18T22:04:05+08:00</lastmod>
   </url><url>
-    <loc>https://dreamersboy.github.io/tags/</loc>
+    <loc>https://dreamersboy.giyhub.io/categories/</loc>
+  </url><url>
+    <loc>https://dreamersboy.giyhub.io/tags/</loc>
   </url>
 </urlset>
